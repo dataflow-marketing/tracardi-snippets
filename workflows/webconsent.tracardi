@@ -762,9 +762,9 @@
               },
               "init": {
                 "enabled": true,
-                "endpoint": "https://c360-api.influencer.tips",
+                "endpoint": "",
                 "position": "bottom",
-                "uix_source": "https://c360-api.influencer.tips",
+                "uix_source": "",
                 "expand_height": 400,
                 "always_display": true
               },
